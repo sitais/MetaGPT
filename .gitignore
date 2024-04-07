@@ -188,3 +188,6 @@ cov.xml
 *-structure.json
 *.dot
 .python-version
+
+# other
+game-2048-thinking.md

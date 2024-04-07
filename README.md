@@ -68,6 +68,10 @@
 pip install --upgrade metagpt
 # or `pip install --upgrade git+https://github.com/geekan/MetaGPT.git`
 # or `git clone https://github.com/geekan/MetaGPT && cd MetaGPT && pip install --upgrade -e .`
+
+# Install submodules [RAG]
+# pip install --upgrade -e .[rag]
+
 ```
 
 For detailed installation guidance, please refer to [cli_install](https://docs.deepwisdom.ai/main/en/guide/get_started/installation.html#install-stable-version)
